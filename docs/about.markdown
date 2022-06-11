@@ -3,16 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+## 我
+双飞本科计算机专业学生，即将成为一名奶爸
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 格言
+movement with progress
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 正在看
+* 重构
+* 高效能人士的七个习惯
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 看过的书籍
+* 代码简洁之道
+* 成长性思维 
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+
+
