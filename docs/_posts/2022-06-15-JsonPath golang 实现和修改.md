@@ -16,7 +16,9 @@ parse 先把body给变成一个一个的不同类型的 node
 
 把这个吃透了 将会真正的提升一个 level
 
-指针 反射 debug
+递归 指针 反射 debug
+
+目标 完善好这个文章 将里面涉及到的面全部搞定
 ```
 type JSONPath struct {
 	name       string
