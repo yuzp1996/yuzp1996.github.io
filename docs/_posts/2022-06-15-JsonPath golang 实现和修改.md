@@ -11,6 +11,12 @@ parse 先把body给变成一个一个的不同类型的 node
 
 然后根据传入的 data 有可能是struct 通过 reflect 处理  然后 Print 的时候 找到这些值 然后再输出出来
 
+
+而且目前发现 还可以使用自带的 debug 功能来做这些事情 感觉很棒 很好
+
+把这个吃透了 将会真正的提升一个 level
+
+指针 反射 debug
 ```
 type JSONPath struct {
 	name       string
