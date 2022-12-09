@@ -19,6 +19,8 @@ permalink: /about/
 ## 正在看
 * 重构
 * 活法
+* Kubernetes Patterns
+* DevOps with Kubernetes
 * 金字塔原理
 
 ## 看过的书籍
