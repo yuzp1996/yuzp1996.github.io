@@ -1,0 +1,57 @@
+baseURL = 'https://yuzp1996.github.io/'
+locale = 'zh-CN'
+title = 'WIP-野望'
+theme = 'PaperMod'
+paginate = 10
+
+[params]
+  env = "production"
+  description = "风吹麦香 心旷神怡"
+  author = "yuzp1996"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+
+  [params.homeInfoParams]
+    Title = "WIP-野望"
+    Content = "风吹麦香 心旷神怡"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yuzp1996"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
+    codeFences = true
